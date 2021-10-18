@@ -1,5 +1,5 @@
 {
-    [
+    "partidas": [
         {
             "id_partida":1,
             "nombre_partida": "los sancudos",
