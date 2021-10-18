@@ -3,32 +3,32 @@
             {
                "id": 1,
                "nombre": "Juan",
-               "esTurno": false
+               "esTurno": "false"
             },
             {
                "id": 2,
                "nombre": "Exe",
-               "esTurno": false
+               "esTurno": "false"
             },
             {
                "id": 3,
                "nombre": "Martin",
-               "esTurno": false
+               "esTurno": "false"
             },
             {
                "id": 4,
                "nombre": "Pele",
-               "esTurno": true
+               "esTurno": "true"
             },
             {
                "id": 5,
                "nombre": "Gonza",
-               "esTurno": false
+               "esTurno": "false"
             },
             {
                "id": 6,
                "nombre": "Santi",
-               "esTurno": false
+               "esTurno": "false"
             }
          ]
       }
