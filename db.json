@@ -19,6 +19,16 @@
             "id_partida":4,
             "nombre_partida": "eternamente efimeros",
             "cantidad_jugadores": 1
+        },
+        {
+            "id_partida":5,
+            "nombre_partida": "todo de nada",
+            "cantidad_jugadores": 1
+        },
+        {
+            "id_partida":6,
+            "nombre_partida": "tengo hambre",
+            "cantidad_jugadores": 4
         }
     ]
 }
