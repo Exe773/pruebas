@@ -1,1 +1,65 @@
 
+{
+    "lista": [
+        {
+            "id_partida":1,
+            "nombre_partida": "los sancudos",
+            "cantidad_jugadores": 4
+        },
+        {
+            "id_partida":2,
+            "nombre_partida": "los vengadores vengados",
+            "cantidad_jugadores": 2
+        },
+        {
+            "id_partida":3,
+            "nombre_partida": "la filosofia filosa",
+            "cantidad_jugadores": 5
+        },
+        {
+            "id_partida":4,
+            "nombre_partida": "eternamente efimeros",
+            "cantidad_jugadores": 1
+        },
+        {
+            "id_partida":5,
+            "nombre_partida": "todo de nada",
+            "cantidad_jugadores": 1
+        },
+        {
+            "id_partida":6,
+            "nombre_partida": "tengo hambre",
+            "cantidad_jugadores": 4
+        },
+        {
+            "id_partida":7,
+            "nombre_partida": "mmmmmmmm",
+            "cantidad_jugadores": 4
+        },
+        {
+            "id_partida":8,
+            "nombre_partida": "tengo que llenar la pagina",
+            "cantidad_jugadores": 5
+        },
+        {
+            "id_partida":9,
+            "nombre_partida": "una partidita mas",
+            "cantidad_jugadores": 2
+        },
+        {
+            "id_partida":10,
+            "nombre_partida": "el ultimo turno",
+            "cantidad_jugadores": 2
+        },
+        {
+            "id_partida":6,
+            "nombre_partida": "que juego es este",
+            "cantidad_jugadores": 3
+        },
+        {
+            "id_partida":6,
+            "nombre_partida": "mmmmmm2",
+            "cantidad_jugadores": 3
+        }
+    ]
+}
