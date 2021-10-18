@@ -2,36 +2,36 @@
     "todos" : [
         {
             "id_partida": 1, 
-            "nombre": 'Rico', 
+            "nombre": "Rico", 
             "jugadores": [
                 {
                   "id":1,
-                  "nombre": 'Juan',
+                  "nombre": "Juan",
                   "esTurno": false,
                 },
                  {
                   "id":2,
-                  "nombre": 'Exe',
+                  "nombre": "Exe",
                   "esTurno": false,
                 },
                  {
                   "id":3,
-                  "nombre": 'Martin',
+                  "nombre": "Martin",
                   "esTurno": false,
                 },
                  {
                   "id":4,
-                  "nombre": 'Pele',
+                  "nombre": "Pele",
                   "esTurno": true,
                 },
                  {
                   "id":5,
-                  "nombre": 'Gonza',
+                  "nombre": "Gonza",
                   "esTurno": false,
                 },
                  {
                   "id":6,
-                  "nombre": 'Santi',
+                  "nombre": "Santi",
                   "esTurno": false,
                 }
        ]
