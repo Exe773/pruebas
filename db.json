@@ -1,8 +1,4 @@
-
-   "todos": [
-      {
-         "id_partida": 1,
-         "nombre": "Rico",
+{
          "jugadores": [
             {
                "id": 1,
@@ -36,5 +32,5 @@
             }
          ]
       }
-   ]
+   
 
