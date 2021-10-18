@@ -1,7 +1,9 @@
-[
-    {
-        "id_partida":1,
-        "nombre_partida": "los sancudos",
-        "cantidad_jugadores": 4
-    }
-]
+{
+    [
+        {
+            "id_partida":1,
+            "nombre_partida": "los sancudos",
+            "cantidad_jugadores": 4
+        }
+    ]
+}
