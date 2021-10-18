@@ -1,5 +1,9 @@
 {
-         "jugadores": [
+      "lista": [
+               {
+                "id_partida":1,
+                "nombre":"Tito",
+                "jugadores": [
             {
                "id": 1,
                "nombre": "Juan",
@@ -32,5 +36,7 @@
             }
          ]
       }
+     ]
+}
    
 
