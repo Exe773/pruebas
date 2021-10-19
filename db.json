@@ -52,12 +52,12 @@
             "cantidad_jugadores": 2
         },
         {
-            "id_partida":6,
+            "id_partida":11,
             "nombre_partida": "que juego es este",
             "cantidad_jugadores": 3
         },
         {
-            "id_partida":6,
+            "id_partida":12,
             "nombre_partida": "mmmmmm2",
             "cantidad_jugadores": 3
         }
